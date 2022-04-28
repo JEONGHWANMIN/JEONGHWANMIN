@@ -21,7 +21,7 @@ ghksals09041@gmail.com
 <!-- Tech Stack -->
 
 <h3> 새로운 기술 익히는데 거부감 없이 흥미롭게 익히는 편 입니다. </h3>
-<h3> 최근에는 React Testing Library 와 jest 를 사용해서 React 유닛 테스트 하는 방법에 대해 관심가지고 있습니다! </h3>
+<h5> 최근에는 React Testing Library 와 jest 를 사용해서 React 유닛 테스트 하는 방법에 대해 관심가지고 있습니다! </h5>
 
 🌟&nbsp; **MyTechStack** &nbsp;🌟
 
