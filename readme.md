@@ -28,8 +28,8 @@ ghksals09041@gmail.com
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
-[![HwanMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGHWANMIN&show_icons=true&theme=vue-dark)](https://github.com/JEONGHWANMIN)
+[![HwanMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGHWANMIN&show_icons=true&theme=vue-dark)](https://github.com/JEONGHWANMIN) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGHWANMIN&layout=compact)](https://github.com/JEONGHWANMIN)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGHWANMIN&layout=compact)](https://github.com/JEONGHWANMIN)
+
 </div>
