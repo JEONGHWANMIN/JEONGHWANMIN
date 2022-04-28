@@ -1,15 +1,16 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Who%20Am%20I?&fontSize=90&animation=blinking)
 
-<center>Hi!</center>
 
-<center>
+
 <!-- Who Am I -->
-<h2>
-<strong>안녕하세요</strong> 🤗 </br> 
-저는 다른 사람들과 <strong>
-소통</strong>하고 같이 <strong>협업</strong>해서 무언가 만들어 </br> 
-가는걸 좋아하는  <strong>프론트 엔드</strong> 개발자 <strong>정환민</strong> 입니다. </br>
-</h2>
+<h4>
+안녕하세요🤗 </br> 
+저는 다른 사람들과 
+소통하고 같이 협업해서 무언가 만들어 </br> 
+가는걸 좋아하는 프론트 엔드 개발자 정환민 입니다. </br>
+</h4>
 
 📚 &nbsp; MyBlog <br>
 https://ghksals0904.tistory.com/
@@ -27,4 +28,5 @@ ghksals09041@gmail.com
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
-</center>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGHWANMIN&show_icons=true&theme=vue-dark)](https://github.com/JEONGHWANMIN)
+</div>
