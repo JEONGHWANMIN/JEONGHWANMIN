@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Who%20Am%20I?&fontSize=90&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Who%20Am%20I?&fontSize=90&)
 
 
 
