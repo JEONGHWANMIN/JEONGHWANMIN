@@ -13,21 +13,11 @@
 </h3>
 
 
-📚 &nbsp; MyBlog <br>
 
-<a href="https://ghksals0904.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-
-✉️ &nbsp; Email <br>
-ghksals09041@gmail.com
 <!-- Tech Stack -->
 
 <h3> 새로운 기술 익히는데 거부감 없이 흥미롭게 익히는 편 입니다 🤩 </h3>
-<h5> 재사용 컴포넌트를 만들기 위해서 꾸준히 생각하자 !!  </h5>
+<h4> 재사용 컴포넌트를 만들기 위해서 꾸준히 생각하자 !!  </h4>
 
 🌟&nbsp; **MyTechStack** &nbsp;🌟
 
@@ -36,6 +26,7 @@ ghksals09041@gmail.com
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 
 [![HwanMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGHWANMIN&show_icons=true&theme=vue-dark)](https://github.com/JEONGHWANMIN) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGHWANMIN&layout=compact)](https://github.com/JEONGHWANMIN)
