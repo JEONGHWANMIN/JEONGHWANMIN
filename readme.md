@@ -29,10 +29,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 
-[![HwanMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGHWANMIN&show_icons=true&theme=vue-dark)](https://github.com/JEONGHWANMIN) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGHWANMIN&layout=compact)](https://github.com/JEONGHWANMIN)
-
-
-
 </div>
 
 
