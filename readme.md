@@ -10,7 +10,7 @@
 나만의 학습 루틴을 만들어서 꾸준히 학습할 수 있는 환경을 만들었습니다. <br>
 좋은 컴포넌트 설계를 위해서 SOLID원칙을 적용합니다.
 
-# 🛠 TechStack
+# 🚀 TechStack
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
