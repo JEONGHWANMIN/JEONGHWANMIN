@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=HwanMin&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20FE%20Developer.&descAlign=70.&descAlignY=44)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=HwanMin&color=gradient)
 
 # 📌 Contact 
  <a href="https://ghksals0904.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-F6F8FA?style=flat-square&logo=Vimeo&logoColor=blue&link=https://ghksals0904.tistory.com"/></a>&nbsp;
