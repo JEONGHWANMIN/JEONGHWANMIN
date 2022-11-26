@@ -8,7 +8,6 @@
 안녕하세요. 프론트 엔드 개발자 정환민 입니다.<br>
 꾸준히 성장하기 위해서 나만의 학습 루틴을 만들어서 꾸준히 학습할 수 있는 환경을 만들었습니다. <br>
 변화를 두려워하지 않고 새로운 기술에 빠르게 적응 합니다. <br>
-좋은 컴포넌트 설계를 위해서 SOLID원칙을 적용합니다.
 
 # 🚀 TechStack
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
