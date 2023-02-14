@@ -5,10 +5,15 @@
  <a href="mailto:dev.ghksals09041@gmail.com "><img src="https://img.shields.io/badge/Gmail-F6F8FA?style=flat-square&logo=Gmail&logoColor=red&link=dev.ghksals09041@gmail.com"></a>
 
 # 👨🏻‍💻 Introduce
-안녕하세요. 프론트 엔드 개발자 정환민 입니다.<br>
-꾸준히 성장하기 위해서 나만의 학습 루틴을 만들어서 꾸준히 학습할 수 있는 환경을 만들었습니다. <br>
-변화를 두려워하지 않고 새로운 기술에 빠르게 적응 합니다. <br>
-기술을 빠르게 습득해서 프로젝트에 적용할 수 있습니다. <br>
+FrontEnd Developer 정환민 입니다 👋
+
+새로운 기술을 익히는 것을 매우 좋아합니다 
+커리어리, 서핏, 기술블로그 등을 통해서 새로운 기술을 접하고 공부합니다 
+
+최근에는 새로운 기술도 중요하지만 그만큼 기본이 탄탄해야 나중에 무너지지 않는 개발자가 된다는 
+생각을 가지고 기본기를 탄탄히 쌓으려고 공부하고 있습니다. 
+
+각종 개발 컨퍼런스에 참여해서 다른 다양한 개발자 분들과 재미있게 개발 얘기 나누고 싶습니다 ㅎㅎ 
 
 # 🚀 TechStack
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
