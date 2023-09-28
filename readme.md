@@ -19,6 +19,6 @@ FrontEnd Developer 정환민 입니다 👋
 # 🚀 TechStack
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![Hwanmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGHWANMIN&hide=contribs)
