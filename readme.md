@@ -2,7 +2,7 @@
 
 # 📌 Contact & Channels 
  <a href="https://ghksals0904.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-F6F8FA?style=flat-square&logo=Vimeo&logoColor=blue&link=https://ghksals0904.tistory.com"/></a>&nbsp;
- <a href="mailto:dev.ghksals09041@gmail.com "><img src="https://img.shields.io/badge/Gmail-F6F8FA?style=flat-square&logo=Gmail&logoColor=red&link=dev.ghksals09041@gmail.com"></a>
+ <a href="mailto:ghksals09041@gmail.com "><img src="https://img.shields.io/badge/Gmail-F6F8FA?style=flat-square&logo=Gmail&logoColor=red&link=dev.ghksals09041@gmail.com"></a>
 
 # 👨🏻‍💻 Introduce
 FrontEnd Developer 정환민 입니다 👋
